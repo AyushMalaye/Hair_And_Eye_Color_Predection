@@ -23,6 +23,6 @@ Hair and Eye color Detection Using Machine Learning
 
 
 ## Sample Output
-## [Sample output 1 ](https://github.com/AyushMalaye/Hair_And_Eye_Color_Predection-/blob/main/Output/1.jpg)
-## [Sample output 2 ](https://github.com/AyushMalaye/Hair_And_Eye_Color_Predection-/blob/main/Output/2.jpg)
-## [Sample output 3 ](https://github.com/AyushMalaye/Hair_And_Eye_Color_Predection-/blob/main/Output/3.jpg)
+#### [Sample output 1 ](https://github.com/AyushMalaye/Hair_And_Eye_Color_Predection-/blob/main/Output/1.jpg)
+#### [Sample output 2 ](https://github.com/AyushMalaye/Hair_And_Eye_Color_Predection-/blob/main/Output/2.jpg)
+#### [Sample output 3 ](https://github.com/AyushMalaye/Hair_And_Eye_Color_Predection-/blob/main/Output/3.jpg)
