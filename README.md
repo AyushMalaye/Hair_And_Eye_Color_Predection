@@ -5,7 +5,7 @@ Hair and Eye color Detection Using Machine Learning
 ## To simply run this model
 
 1. clone this repository 
-2. Run the [Main.py](https://github.com/AyushMalaye/Age_And_Gender_Detection/blob/main/main.py) file
+2. Run the [Hair_Eye_color_detection.py](https://github.com/AyushMalaye/Hair_And_Eye_Color_Predection-/blob/main/Hair_Eye_color_detection.py) file
 3. Upload the image you want to detect 
 4. Click on detect button
 5. View Result
@@ -16,7 +16,7 @@ Hair and Eye color Detection Using Machine Learning
 3. Extract the dataset to your local machine 
 4. open the [model notebook](https://github.com/AyushMalaye/Age_And_Gender_Detection/blob/main/My%20NoteBook%20.ipynb)
 5. Run this notebook
-6. Run the [Main.py](https://github.com/AyushMalaye/Age_And_Gender_Detection/blob/main/main.py) file
+6. Run the [Hair_Eye_color_detection.py](https://github.com/AyushMalaye/Hair_And_Eye_Color_Predection-/blob/main/Hair_Eye_color_detection.py) file
 7. Upload the image you want to detect 
 8. Click on detect button
 9. View Result
