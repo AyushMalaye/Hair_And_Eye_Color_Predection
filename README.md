@@ -14,7 +14,7 @@ Hair and Eye color Detection Using Machine Learning
 1. Clone rhis repository 
 2. Download the dataset from [here](https://www.kaggle.com/datasets/davidjfisher/illinois-doc-labeled-faces-dataset)
 3. Extract the dataset to your local machine 
-4. open the [model notebook](https://github.com/AyushMalaye/Age_And_Gender_Detection/blob/main/My%20NoteBook%20.ipynb)
+4. open the [model notebook](https://github.com/AyushMalaye/Hair_And_Eye_Color_Predection-/blob/main/hair-and-eye-color-model.ipynb)
 5. Run this notebook
 6. Run the [Hair_Eye_color_detection.py](https://github.com/AyushMalaye/Hair_And_Eye_Color_Predection-/blob/main/Hair_Eye_color_detection.py) file
 7. Upload the image you want to detect 
